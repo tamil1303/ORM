@@ -47,7 +47,7 @@ class Movie_DBAdmin(admin.ModelAdmin):
 
 ```
 ## OUTPUT
-![alt text](<shamapp/ormapp/movies 2.png>)
+![Screenshot 2025-04-25 150544](https://github.com/user-attachments/assets/ac4f5e4a-bc88-4c4e-a95e-5ce6f2d81aee)
 
 
 
